@@ -3,5 +3,6 @@ channels:
 dependencies:
 - python
 - pyiron_base
+- jupyter
 - pip:
   - git+https://github.com/pyiron/pyiron_base.git@scriptjob_adv
