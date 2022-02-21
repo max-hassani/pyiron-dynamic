@@ -6,7 +6,7 @@ python .github/ci_support/pyironconfig.py
 bash .github/ci_support/import_dataset.sh
 
 # conda install papermill
-conda install -c conda-forge papermill
+conda install -c conda-forge papermill black
 
 # execute notebooks
 current_dir=$(pwd)
