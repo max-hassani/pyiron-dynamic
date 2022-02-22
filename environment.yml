@@ -5,4 +5,4 @@ dependencies:
 - pyiron_base
 - jupyter
 - pip:
-  - git+https://github.com/pyiron/pyiron_base.git@scriptjob_adv
+  - git+https://github.com/pyiron/pyiron_base.git@dynamic
