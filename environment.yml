@@ -2,7 +2,11 @@ channels:
 - conda-forge
 dependencies:
 - python
-- pyiron_base
 - jupyter
+- fenics =2019.1.0
+- mshr =2019.1.0
+- matplotlib
+- seaborn
+- pip
 - pip:
   - git+https://github.com/pyiron/pyiron_base.git@dynamic
