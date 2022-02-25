@@ -1,7 +1,7 @@
 # pyiron dynamic 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pyiron-dynamic/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/muh-hassani/pyiron-dynamic/HEAD)
 
-The job class `MyscriptJob` is defined based on the files in the directory `pyiron/resources/template/MyscriptJob`. The directory contains: 
+The job class `TensileTest` is defined based on the files in the directory `pyiron/resources/template/MyscriptJob`. The directory contains: 
 
 - `input.json` - default input dictionary store in JSON format
 - `script.py` - python script to execute the calculation
