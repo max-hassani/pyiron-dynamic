@@ -10,4 +10,4 @@ dependencies:
 - seaborn
 - pip
 - pip:
-  - git+https://github.com/pyiron/pyiron_base.git@dynamic
+  - git+https://github.com/pyiron/pyiron_base.git@script_mpi
